@@ -160,13 +160,14 @@ Prompt:    '<|begin_of_text|><|start_header_id|>system<|end_header_id|>Cutting K
 Output:    'Date Date'
 ------------------------------------------------------------
 [rank0]:[W1218 09:45:05.975432556 ProcessGroupNCCL.cpp:1522] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
-</details>
 
----
 
 
 
 ```
+</details>
+
+---
 ## 跑出正确结果
 
 
